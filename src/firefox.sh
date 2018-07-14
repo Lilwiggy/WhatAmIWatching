@@ -1,0 +1,2 @@
+firefox
+node index.js
