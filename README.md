@@ -29,7 +29,7 @@ Zeroith, hit the green button up there that says "Clone/download" and hit downlo
 
 First, install the Add on for firefox that communicates with this app to send data. You can download it here: https://addons.mozilla.org/en-US/firefox/addon/what-am-i-watching/
 
-Second, you can either just double click "What am I watching.exe" or you can right click it and make a shortcut on your desktop (Recommended).
+Second, you can either just double click "What am I watching.exe" located in "src C#" or you can right click it and make a shortcut on your desktop (Recommended).
 And it should say "Ready!" and you are set.
 
 Easier to set up than that NodeJS thing right?
