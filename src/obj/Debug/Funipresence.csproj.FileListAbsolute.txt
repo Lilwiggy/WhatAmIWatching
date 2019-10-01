@@ -1,0 +1,17 @@
+D:\Users\John\source\repos\Funipresence\bin\Debug\Funipresence.exe.config
+D:\Users\John\source\repos\Funipresence\bin\Debug\Funipresence.exe
+D:\Users\John\source\repos\Funipresence\bin\Debug\Funipresence.pdb
+D:\Users\John\source\repos\Funipresence\bin\Debug\DiscordRPC.dll
+D:\Users\John\source\repos\Funipresence\bin\Debug\Newtonsoft.Json.dll
+D:\Users\John\source\repos\Funipresence\bin\Debug\websocket-sharp.dll
+D:\Users\John\source\repos\Funipresence\bin\Debug\DiscordRPC.pdb
+D:\Users\John\source\repos\Funipresence\bin\Debug\DiscordRPC.xml
+D:\Users\John\source\repos\Funipresence\bin\Debug\Newtonsoft.Json.xml
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.csprojAssemblyReference.cache
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.Form1.resources
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.Properties.Resources.resources
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.csproj.GenerateResource.cache
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.csproj.CoreCompileInputs.cache
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.csproj.CopyComplete
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.exe
+D:\Users\John\source\repos\Funipresence\obj\Debug\Funipresence.pdb
