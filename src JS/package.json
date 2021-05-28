@@ -11,6 +11,6 @@
   "dependencies": {
     "discord-rpc": "^3.0.0-beta.12",
     "eslint": "^5.1.0",
-    "ws": "^5.2.2"
+    "ws": "^7.4.5"
   }
 }
